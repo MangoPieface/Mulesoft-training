@@ -1,0 +1,3 @@
+apdev-american-ws/api_version={"apiId"\:"12083608","apiName"\:"American Flights API","versionName"\:"1.0","versionId"\:"169367","deprecated"\:false,"description"\:"API for american flights in training DB","organizationId"\:"b765b5a5-2e5b-4a03-a556-0f6415a8b469","exportUrl"\:"https\://anypoint.mulesoft.com//apiplatform/repository/v2/organizations/b765b5a5-2e5b-4a03-a556-0f6415a8b469/apis/12083608/versions/169367/files/export","rootFileId"\:"1450551"}
+apdev-american-ws/users=[{"token"\:"27f9f02d-f5d5-4379-b896-49e4344596a7","userId"\:"mangopieface","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+eclipse.preferences.version=1
