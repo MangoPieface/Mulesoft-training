@@ -59,10 +59,10 @@ https://anypoint.mulesoft.com/apiplatform/repository/v2/organizations/b765b5a5-2
 https://anypoint.mulesoft.com/apiplatform/eduserv-1/#/portals/organizations/b765b5a5-2e5b-4a03-a556-0f6415a8b469/apis/12083608/versions/169367
 
 * Your client ID
-
+5a4ca2e6cc35412a9da6052d8d41eba5
 
 * Your client secret
-
+07590B0b36FE469D94968fa488d8e478
 
 * Solution - American Flights RAML URL
 https://anypoint.mulesoft.com/apiplatform/repository/v2/organizations/fd604b43-365c-42e8-810f-733a2b7f411f/public/apis/67888/versions/70734/files/root
